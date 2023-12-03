@@ -26,7 +26,7 @@ Contains the Python code and report for business and data understanding accordin
 
 ## Dependencies
 - Python v 3.8 or newer
-- Libraries: numpy, pandas, sklearn, imblearn, plotnine, geopandas, shapely, folium (do we need version numbers?)
+- Libraries: numpy, pandas, sklearn, imblearn, joblib, plotnine, geopandas, shapely, folium (do we need version numbers?)
 
 ## How to use the code
 - Make sure that the prerequisites and dependencies are fulfilled.
